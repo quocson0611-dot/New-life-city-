@@ -1,0 +1,8 @@
+{
+  "name":"new-life-city-online",
+  "version":"1.0.0",
+  "private":true,
+  "description":"New Life City multiplayer game server - no Supabase",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=22.13.0"}
+}
